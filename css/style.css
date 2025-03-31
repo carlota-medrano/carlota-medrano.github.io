@@ -932,11 +932,11 @@ article {
   background: #429E38;
 }
 #product-showcase-banner .block .buttons .btn-buy {
-  background: #00AEDA;
-  border-bottom: 3px solid #0190B5;
+  background: #e71788;
+  border-bottom: 3px solid #d2157d;
 }
 #product-showcase-banner .block .buttons .btn-buy:hover {
-  background: #0190B5;
+  background: #d2157d;
 }
 #product-showcase-banner .block .buttons .btn-buy span {
   margin-right: 8px;
